@@ -1,2 +1,2 @@
-# Tamryn-s-Blog
+# blog
 more more more!
