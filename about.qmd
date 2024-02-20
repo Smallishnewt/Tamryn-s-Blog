@@ -1,0 +1,35 @@
+---
+title: "About"
+image: Tam.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/smallishnewt
+    - icon: github
+      text: Github
+      href: https://github.com/Smallishnewt
+---
+
+Tamryn Hamilton is a PhD candidate at North-West University.
+
+#Education
+
+NWU WITS
+
+#Experience
+
+Many things to be added.
+
+------------------------------------------------------------------------
+
+## About this blog
+
+## This is the contents of the about page for my blog.
+
+About this site
+
+```{r}
+1 + 1
+```

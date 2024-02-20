@@ -1,0 +1,16 @@
+---
+title: "Tamryn's Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  categories: true
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
